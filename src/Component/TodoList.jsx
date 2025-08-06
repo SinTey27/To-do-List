@@ -56,8 +56,11 @@ function TodoList() {
 
   return (
     <>
-      <h1 style={{ color: "black" }}> Kifiya Financial Technology PLC.</h1>
-      <p>Sintayehu Getabalew</p>
+      <h1 style={{ color: "black" }}>
+        {" "}
+        Youth Impact Development Association.{" "}
+      </h1>
+
       <div className="todo-container">
         <h1>To-Do List</h1>
         <div className="input-section">
